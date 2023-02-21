@@ -1,0 +1,8 @@
+{
+  "login": {
+    "emailInput": "#email",
+    "passwordInput": "#password",
+    "submitButton": "button"
+  }
+
+}
